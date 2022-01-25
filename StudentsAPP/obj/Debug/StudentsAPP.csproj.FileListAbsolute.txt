@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\bin\Debug\StudentDB.mdf
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\bin\Debug\StudentDB_log.ldf
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\bin\Debug\StudentsAPP.exe.config
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\bin\Debug\StudentsAPP.exe
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\bin\Debug\StudentsAPP.pdb
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\obj\Debug\StudentsAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\obj\Debug\StudentsAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\obj\Debug\StudentsAPP.exe
+C:\Users\Asus\source\repos\testSQL\StudentsAPP\StudentsAPP\obj\Debug\StudentsAPP.pdb
